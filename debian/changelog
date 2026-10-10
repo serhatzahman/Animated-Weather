@@ -1,0 +1,9 @@
+n9weather (1.0.0-1) unstable; urgency=low
+
+  * İlk sürüm (Versiyon 1.0.0):
+    - Dikey 480x854 AMOLED arayüz
+    - Yağmur, bulut ve güneş animasyonları
+    - Open-Meteo REST API entegrasyonu
+    - 24 saatlik ve 7 günlük tahmin ekranı
+
+ -- Community Developer <developer@meego.org>  Sat, 10 Oct 2026 12:00:00 +0300
