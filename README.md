@@ -12,11 +12,9 @@ An elegant, animated, portrait weather application designed specifically for the
 ---
 
 ## 📸 Screenshots / Ekran Görüntüleri
+<img width="480" height="854" alt="Screenshot_20261010_114419" src="https://github.com/user-attachments/assets/de6f1bdd-9259-42b2-b58c-6249819f6072" /><img width="480" height="854" alt="Screenshot_20261010_114440" src="https://github.com/user-attachments/assets/470aa5b9-0fec-4a99-8d0a-9bd060caee3f" />
+<img width="480" height="854" alt="Screenshot_20261010_114430" src="https://github.com/user-attachments/assets/ba69b678-86ba-4e2d-a5eb-6be0a0c24fab" />
 
-| Running on Nokia N9 / Cihazda Çalışırken | UI Screen Preview / Arayüz Görünümü | MeeGo Launcher Icon / Menü Simgesi |
-| :---: | :---: | :---: |
-| ![Nokia N9 Running Weather](<img width="480" height="854" alt="Screenshot_20261010_114419" src="https://github.com/user-attachments/assets/10b4fd54-d518-41fc-8130-442d13932f44" />
-) | ![Nokia N9 Weather UI](<img width="480" height="854" alt="Screenshot_20261010_114430" src="https://github.com/user-attachments/assets/bdeca8df-51af-4f51-9297-32649f3ff622" />) | ![Nokia N9 Launcher](<img width="480" height="854" alt="Screenshot_20261010_114440" src="https://github.com/user-attachments/assets/b36ed3a3-f695-45d4-9017-311a3747c39d" />) |
 
 ---
 
