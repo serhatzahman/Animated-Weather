@@ -1,0 +1,12 @@
+Source: n9weather
+Section: user/utilities
+Priority: optional
+Maintainer: Community Developer <developer@meego.org>
+Build-Depends: debhelper (>= 5), libqt4-dev (>= 4.7.4)
+Standards-Version: 3.8.4
+
+Package: n9weather
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, libqt4-declarative (>= 4.7.4)
+Description: Nokia N9 için animasyonlu dikey hava durumu uygulaması
+ Open-Meteo REST API tabanli, akici QML efektleri iceren MeeGo Harmattan hava durumu uygulamasi.
